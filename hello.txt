@@ -12,4 +12,4 @@ get money!
 get money!
 get money!
 get money! master test
-get money!
+get money! hot-fix test
