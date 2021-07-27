@@ -11,5 +11,5 @@ hello world!
 get money!
 get money!
 get money!
-get money!
-get money!
+get money! 
+get money! hot-fix test
